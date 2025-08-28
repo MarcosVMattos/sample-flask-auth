@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Ignorar a pasta de dados do MySQL
+mysql_data/
+
 # C extensions
 *.so
 
